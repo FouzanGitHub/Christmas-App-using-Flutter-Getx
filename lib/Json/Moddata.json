@@ -1,0 +1,23 @@
+[
+    {
+       "id": 1,
+       "Img": "Assets/snowman.png",
+       "Name": "Snowman",
+       "Title":"Flutter Developer",
+       "Detail":"Lorem Ipsum is simply dummy text and Lorem."
+    },
+    {
+        "id": 2,
+        "Img": "Assets/bauble.png",
+        "Name": "Tom",
+        "Title":"UI/UX Designer",
+        "Detail":"Lorem Ipsum is simply dummy text and printing."
+    },
+    {
+        "id": 3,
+        "Img": "Assets/hat.png",
+        "Name": "Diesel",
+        "Title":"Graphic Designer",
+        "Detail":"Lorem Ipsum is simply dummy text and industry."
+    }
+]
